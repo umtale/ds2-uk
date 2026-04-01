@@ -49,188 +49,188 @@
 | Voidout | пустотний сплеск | Вибух при контакті ВТ з людиною |
 
 ### Персонажі
-| Англійська | Українська | Коментар |
-| :--- | :--- | :--- |
-| Alex Weatherstone | Алекс Везерстоун | |
-| Benjamin | Бенджамін | Співробітник розподільчого центру |
-| Bianca North | Біанка Норт | |
-| Caroline Polachek | Керолайн Полачек | Співачка |
-| Charlie | Чарлі | |
+| Англійська | Українська                   | Коментар |
+| :--- |:-----------------------------| :--- |
+| Alex Weatherstone | Алекс Везерстоун             | |
+| Benjamin | Бенджамін                    | Співробітник розподільчого центру |
+| Bianca North | Біанка Норт                  | |
+| Caroline Polachek | Керолайн Полачек             | Співачка |
+| Charlie | Чарлі                        | |
 | Chronobiologist | Хронобіолог / Хронобіологиня | |
-| Clifford "Cliff" Unger | Кліффорд «Кліфф» Унґер | |
-| Daichi Miura | Даїчі Міура | Японський співак |
-| Danny & Michael | Денні та Майкл | Близнюки |
-| Data Scientist | Фахівець із обробки даних | |
-| Deadman | Дедмен | |
-| Denise Sherwood | Деніз Шервуд | |
-| Die-hardman | Дай-Гардмен | |
-| Dollman | Лялькар | |
-| Dollman's Daughter | Донька Лялькаря | |
-| Fragile | Фреджайл | |
-| Gen Hoshino | Ґен Хошіно | Японський музикант |
-| Geneticist | Генетик | |
-| Glenn Rain | Гленн Рейн | Лідер Райдужної долини |
-| Gregory Southall | Грегорі Саутголл | Співробітник Південної обсерваторії |
-| Heartman | Хартмен | |
-| Higgs | Гіґґз | |
-| Iain | Ієн | Працівник притулку |
-| Inventor | Винахідник | (The Inventor) |
-| James Ender | Джеймс Ендер | Співробітник APAC (F8) |
-| Lauren Tsai | Лорен Цай | |
-| Leon | Леон | Співробітник розподільчого центру |
-| Lockne | Локні | |
-| Lou / BB | Лу / BB | Бридж-Бейбі |
-| Lucy | Люсі | |
-| Martin | Мартін | Працівник притулку |
-| Mike Northcote | Майк Норткот | Співробітник APAC |
-| Motherhood Doctor | Лікарка Материнства | |
-| Mr. Impossible | Містер Неможливий | |
-| Neil Vana | Ніл Вана | |
-| Norberto | Норберто | Охоронець на мексиканському кордоні |
-| Old Oz | Олд Оз | Лідер Уряду в Австралії |
-| Olivia Westbury | Олівія Вестбері | Співробітниця APAC (F1) |
-| Pekora | Пекора | Персонаж |
-| Peter | Пітер | Співробітник обсерваторії |
-| Phantom Smith | Примарний коваль | |
-| Pierre Southern | П'єр Саузерн | Співробітник APAC |
+| Clifford "Cliff" Unger | Кліффорд «Кліфф» Унґер       | |
+| Daichi Miura | Даїчі Міура                  | Японський співак |
+| Danny & Michael | Денні та Майкл               | Близнюки |
+| Data Scientist | Фахівець із обробки даних    | |
+| Deadman | Дедмен                       | |
+| Denise Sherwood | Деніз Шервуд                 | |
+| Die-hardman | Дай-Гардмен                  | |
+| Dollman | Лялькар                      | |
+| Dollman's Daughter | Донька Лялькаря              | |
+| Fragile | Фреджайл                     | |
+| Gen Hoshino | Ґен Хошіно                   | Японський музикант |
+| Geneticist | Генетик                      | |
+| Glenn Rain | Гленн Рейн                   | Лідер Райдужної долини |
+| Gregory Southall | Грегорі Саутголл             | Співробітник Південної обсерваторії |
+| Heartman | Хартмен                      | |
+| Higgs | Гіґґз                        | |
+| Iain | Ієн                          | Працівник притулку |
+| Inventor | Винахідник                   | (The Inventor) |
+| James Ender | Джеймс Ендер                 | Співробітник APAC (F8) |
+| Lauren Tsai | Лорен Цай                    | |
+| Leon | Леон                         | Співробітник розподільчого центру |
+| Lockne | Локні                        | |
+| Lou / BB | Лу / BB                      | Бридж-Бейбі |
+| Lucy | Люсі                         | |
+| Martin | Мартін                       | Працівник притулку |
+| Mike Northcote | Майк Норткот                 | Співробітник APAC |
+| Motherhood Doctor | Лікарка Материнства          | |
+| Mr. Impossible | Містер Неможливий            | |
+| Neil Vana | Ніл Вана                     | |
+| Norberto | Норберто                     | Охоронець на мексиканському кордоні |
+| Old Oz | Олд Оз                       | Лідер Уряду в Австралії |
+| Olivia Westbury | Олівія Вестбері              | Співробітниця APAC (F1) |
+| Pekora | Пекора                       | Персонаж |
+| Peter | Пітер                        | Співробітник обсерваторії |
+| Phantom Smith | Примарний коваль             | |
+| Pierre Southern | П'єр Саузерн                 | Співробітник APAC |
 | Pizza Chef | Піца-шеф / Шеф-кухар піцерії | |
-| Rainy | Рейні | |
-| Red Samurai | Червоний самурай | |
-| Ridge Frost | Рідж Фрост | Співробітник Східної обсерваторії |
-| Sam Porter Bridges | Сем Портер Бріджес | Головний герой |
-| Samantha America Strand | Саманта Америка Странд | Амелія |
-| Samson Hook | Сампсон Гук | Співробітник APAC (F2) |
-| Tar Lake Twins | Близнюки зі Смоляного озера | |
-| Tarman | Смоляник (Тармен) | |
-| The Adventurer | Шукач пригод | |
-| The Architect | Архітектор | |
-| The Artist | Мисткиня | |
-| The Bokka | бокка | |
-| The Doctor | лікар | |
-| The Dowser | Лозоходець | |
-| The Dowser's Friend | Друг лозоходця | |
-| The Elder | Старійшина | Персонаж з першої частини |
-| The Fisherman | Рибалка | |
-| The Lone Commander | самотній командир | |
-| The Man Who Delivers | Людина, що доставляє | Сем (легендарне прізвисько) |
-| The Mechanic | механік | |
-| The Musician | Музикант | |
-| The Pioneer | Першопроходець | |
-| The Synthesist | синтезист | |
-| Tomorrow | Туморроу | Дівчина з кокона |
-| Viktor Frank | Віктор Франк | |
+| Rainy | Рейні                        | |
+| Red Samurai | Червоний самурай             | |
+| Ridge Frost | Рідж Фрост                   | Співробітник Східної обсерваторії |
+| Sam Porter Bridges | Сем Портер Бріджес           | Головний герой |
+| Samantha America Strand | Саманта Америка Стренд       | Амелія |
+| Samson Hook | Сампсон Гук                  | Співробітник APAC (F2) |
+| Tar Lake Twins | Близнюки зі Смоляного озера  | |
+| Tarman | Смоляник (Тармен)            | |
+| The Adventurer | Шукач пригод                 | |
+| The Architect | Архітектор                   | |
+| The Artist | Мисткиня                     | |
+| The Bokka | бокка                        | |
+| The Doctor | лікар                        | |
+| The Dowser | Лозоходець                   | |
+| The Dowser's Friend | Друг лозоходця               | |
+| The Elder | Старійшина                   | Персонаж з першої частини |
+| The Fisherman | Рибалка                      | |
+| The Lone Commander | самотній командир            | |
+| The Man Who Delivers | Людина, що доставляє         | Сем (легендарне прізвисько) |
+| The Mechanic | механік                      | |
+| The Musician | Музикант                     | |
+| The Pioneer | Першопроходець               | |
+| The Synthesist | синтезист                    | |
+| Tomorrow | Туморроу                     | Дівчина з кокона |
+| Viktor Frank | Віктор Франк                 | |
 
 ### Вороги та істоти
-| Англійська | Українська | Коментар |
-| :--- | :--- | :--- |
-| Armed Survivalists | Озброєні виживальники | Ворожа група |
-| Bandits | бандити | Вороги (Bandits) |
-| Bandit: Grunt | бандит: рядовий | |
-| Bandit: Heavy | бандит: важковаговик | |
-| Bestia | Бестія | Тварь |
-| Brigands | розбійники | Ворожа група |
+| Англійська | Українська                            | Коментар |
+| :--- |:--------------------------------------| :--- |
+| Armed Survivalists | Озброєні виживальники                 | Ворожа група |
+| Bandits | бандити                               | Вороги (Bandits) |
+| Bandit: Grunt | бандит: рядовий                       | |
+| Bandit: Heavy | бандит: важковаговик                  | |
+| Bestia | Бестія                                | Тварь |
+| Brigands | розбійники                            | Ворожа група |
 | BT (Beached Thing) | BT (Викинута на берег істота) / Тварь | |
-| BT Bestia | BT Бестія | |
-| BT Cetus | BT Цет (Кит) | Гігантська морська Тварь |
-| BT Delphis | Примарний дельфін | |
-| BT Gigas | BT Гігас | |
-| BT Megalocarcinus | BT Мегалокарцинус | Гігантська Тварь-краб |
-| BT Octopoid | Тварь-восьминіг | |
-| BT Raia | BT Рая (Скат) | |
-| Catcher | Ловець | Великий ВТ |
-| CC (Chiral Creatures) | CC (Хіральні істоти) | |
-| Coffin Commander | Командир-Труна (Командир Труни) | |
-| Enforcer | Силовик | |
-| Gazer | Спостерігач | Звичайний ВТ |
-| Gazer mechs | спостерігачі-мехи | ворог-мех |
-| Ghost Blade | Примарний клинок | |
-| Ghost Hunter | Мисливець на привидів | |
-| Ghost Mech | примарний мех / мехи-привиди | |
-| Ghost Mech: Blade | примарний мех: Клинок | |
-| Ghost Mech: Gazer | примарний мех: Наглядач | |
-| Giant Catcher | гігантський ловець | |
-| Grunt | Рядовий | |
-| Headless rider | безголовий вершник | Чутки про ворога |
-| Hunter | Мисливець | Тип BT |
-| Kraken | Кракен | Гігантський мех |
-| MULE | МУЛ | Ворог-кур'єр |
-| Pump-catcher | гарбузоловець | |
-| Seeker | Шукач | ВТ, що шукає жертву |
-| Snatcher | Хапач | |
-| Watcher | Наглядач | Тип BT |
+| BT Bestia | BT Бестія                             | |
+| BT Cetus | BT Цет (Кит)                          | Гігантська морська Тварь |
+| BT Delphis | BT Дельфін                            | |
+| BT Gigas | BT Гігас                              | |
+| BT Megalocarcinus | BT Мегалокарцинус                     | Гігантська Тварь-краб |
+| BT Octopoid | BT Восьминіг                          | |
+| BT Raia | BT Рая (Скат)                         | |
+| Catcher | Ловець                                | Великий ВТ |
+| CC (Chiral Creatures) | CC (Хіральні істоти)                  | |
+| Coffin Commander | Командир-Труна (Командир Труни)       | |
+| Enforcer | Силовик                               | |
+| Gazer | Спостерігач                           | Звичайний ВТ |
+| Gazer mechs | спостерігачі-мехи                     | ворог-мех |
+| Ghost Blade | Примарний клинок                      | |
+| Ghost Hunter | Мисливець на привидів                 | |
+| Ghost Mech | примарний мех / мехи-привиди          | |
+| Ghost Mech: Blade | примарний мех: Клинок                 | |
+| Ghost Mech: Gazer | примарний мех: Наглядач               | |
+| Giant Catcher | гігантський ловець                    | |
+| Grunt | Рядовий                               | |
+| Headless rider | безголовий вершник                    | Чутки про ворога |
+| Hunter | Мисливець                             | Тип BT |
+| Kraken | Кракен                                | Гігантський мех |
+| MULE | МУЛ                                   | Ворог-кур'єр |
+| Pump-catcher | гарбузоловець                         | |
+| Seeker | Шукач                                 | ВТ, що шукає жертву |
+| Snatcher | Хапач                                 | |
+| Watcher | Наглядач                              | Тип BT |
 
 ### Організації та локації
-| Англійська | Українська | Коментар |
-| :--- | :--- | :--- |
-| Animal Shelter | притулок для тварин | |
+| Англійська | Українська                                           | Коментар |
+| :--- |:-----------------------------------------------------| :--- |
+| Animal Shelter | притулок для тварин                                  | |
 | APAC (Automated Public Assistance Company) | APAC (Компанія автоматизованої громадської допомоги) | |
-| APAS (Automated Public Assistance System) | APAS / АПАС | |
-| Australia | Австралія | |
-| Austral Ridge | Австралійський хребет | |
-| BPAS | BPAS / БПАС | Біологічна система синхронізації |
-| Bridges | Бріджес | Організація |
-| Cape Fort Knot | Кейп-Форт-Нот | |
-| Capital Knot City | Кепітал-Нот | |
-| Cardinal Fort Knot | Кардинал-Форт-Нот | |
-| Causeway Cay | Насипний острів | |
-| Central Highlands | Центральне нагір'я | |
-| Central Knot City | Сентрал-Нот | |
-| Ciudad Nudo del Norte | Сьюдад-Нудо-дель-Норте | Місто в Мексиці (C1) |
-| Cloudsea Valley | Долина Хмарного моря | |
-| Desert River | Пустельна річка | |
-| DHV Magellan | ДГВ «Магеллан» | Корабель |
-| Drawbridge | Дроубрідж | Організація Фреджайл |
-| East Fort Knot | Східний Форт-Нот | |
-| East River | Східна річка | |
-| Eastern Environmental Observatory | Східна екологічна обсерваторія | |
-| Edge Knot City | Едж-Нот | |
-| Firehawk's Valley | Долина вогняних яструбів | |
-| Fort Knot | Форт-Нот | |
-| Frontier River | Фронтирна річка | |
-| Giant Tar Lake | Гігантське смоляне озеро | Локація в Австралії |
-| Government | Уряд | Організація в Австралії |
-| Great Canyon Creek | Струмок Великого каньйону | |
-| Great Crater Cliffs | Великі кратерні скелі | |
-| Heartman's Lab | лабораторія Гартмена | |
-| Knot City | Вузлове місто | Загальна назва міст |
-| Kunbarra Rocks | Скелі Кунбарра | |
-| Lake Knot City | Лейк-Нот | |
-| Lakeside Fort Knot | Озерний Форт-Нот | |
-| Mexico | Мексика | |
-| Mountain Knot City | Маунтін-Нот | |
-| North Edge Ridge | Хребет північного краю | |
-| North Fort Knot | Норт-Форт-Нот | |
-| Northern Environmental Observatory | Північна екологічна обсерваторія | |
-| Northwest Coast | Північно-західне узбережжя | |
-| Northwest Delta | Північно-західна дельта | |
-| Northwest Line | Північно-західна лінія | Маршрут монорейки |
-| Nova Pangea | Нова Пангея | Майбутній суперконтинент |
-| Orange Coast | Помаранчеве узбережжя | |
-| Pangea | Пангея | |
-| Pillar Rocks | Скелі-стовпи | |
-| Port Knot City | Порт-Нот | |
-| Rainbow Valley | Веселкова долина | |
-| Red Mist Cliffs | Скелі Червоного Туману | |
-| Red River | Червона річка | |
-| Rocky Town | Скелясте місто | |
-| Scarlet Canyon | Пурпуровий каньйон | |
-| Smoke Hill Mine | шахта «Смоляний пагорб» | |
-| South Edge Mine | шахта «Південний край» | |
-| South Fort Knot | Південний Форт-Нот | |
-| South Knot City | Саут-Нот | |
-| Southern Environmental Observatory | Північна екологічна обсерваторія | |
-| Spider Hill | Пагорб Павука | |
-| Terminal Fort Knot | Термінальний Форт-Кнот | |
-| The Motherhood | Материнство | Група жінок / Назва притулку |
-| Twin Creeks | Струмки-близнюки | |
-| Twin Valley Mine | шахта «Долина Близнюків» | |
-| UCA (United Cities of America) | UCA | Об'єднані Міста Америки |
-| Villa Libre | Вілла Лібре | Поселення в Австралії |
-| Warrigal Cliff | Скеля Варрігал | |
-| West Fort Knot | Західний Форт-Кнот | |
-| Western Environmental Observatory | Західна екологічна обсерваторія | |
-| Westbury Monorail | Монорейка Вестбері | |
-| Windy Plateau | Вітряне плато | |
+| APAS (Automated Public Assistance System) | APAS                                                 | |
+| Australia | Австралія                                            | |
+| Austral Ridge | Австралійський хребет                                | |
+| BPAS | BPAS                                                 | Біологічна система синхронізації |
+| Bridges | Бріджес                                              | Організація |
+| Cape Fort Knot | Кейп-Форт-Нот                                        | |
+| Capital Knot City | Кепітал-Нот                                          | |
+| Cardinal Fort Knot | Кардинал-Форт-Нот                                    | |
+| Causeway Cay | Насипний острів                                      | |
+| Central Highlands | Центральне нагір'я                                   | |
+| Central Knot City | Сентрал-Нот                                          | |
+| Ciudad Nudo del Norte | Сьюдад-Нудо-дель-Норте                               | Місто в Мексиці (C1) |
+| Cloudsea Valley | Долина Хмарного моря                                 | |
+| Desert River | Пустельна річка                                      | |
+| DHV Magellan | DHV «Магеллан»                                       | Корабель |
+| Drawbridge | Дроубрідж                                            | Організація Фреджайл |
+| East Fort Knot | Східний Форт-Нот                                     | |
+| East River | Східна річка                                         | |
+| Eastern Environmental Observatory | Східна екологічна обсерваторія                       | |
+| Edge Knot City | Едж-Нот                                              | |
+| Firehawk's Valley | Долина вогняних яструбів                             | |
+| Fort Knot | Форт-Нот                                             | |
+| Frontier River | Фронтирна річка                                      | |
+| Giant Tar Lake | Гігантське смоляне озеро                             | Локація в Австралії |
+| Government | Уряд                                                 | Організація в Австралії |
+| Great Canyon Creek | Струмок Великого каньйону                            | |
+| Great Crater Cliffs | Великі кратерні скелі                                | |
+| Heartman's Lab | лабораторія Хартмена                                 | |
+| Knot City | Вузлове місто                                        | Загальна назва міст |
+| Kunbarra Rocks | Скелі Кунбарра                                       | |
+| Lake Knot City | Лейк-Нот                                             | |
+| Lakeside Fort Knot | Озерний Форт-Нот                                     | |
+| Mexico | Мексика                                              | |
+| Mountain Knot City | Маунтін-Нот                                          | |
+| North Edge Ridge | Хребет північного краю                               | |
+| North Fort Knot | Норт-Форт-Нот                                        | |
+| Northern Environmental Observatory | Північна екологічна обсерваторія                     | |
+| Northwest Coast | Північно-західне узбережжя                           | |
+| Northwest Delta | Північно-західна дельта                              | |
+| Northwest Line | Північно-західна лінія                               | Маршрут монорейки |
+| Nova Pangea | Нова Пангея                                          | Майбутній суперконтинент |
+| Orange Coast | Помаранчеве узбережжя                                | |
+| Pangea | Пангея                                               | |
+| Pillar Rocks | Скелі-стовпи                                         | |
+| Port Knot City | Порт-Нот                                             | |
+| Rainbow Valley | Веселкова долина                                     | |
+| Red Mist Cliffs | Скелі Червоного Туману                               | |
+| Red River | Червона річка                                        | |
+| Rocky Town | Скелясте місто                                       | |
+| Scarlet Canyon | Пурпуровий каньйон                                   | |
+| Smoke Hill Mine | шахта «Смоляний пагорб»                              | |
+| South Edge Mine | шахта «Південний край»                               | |
+| South Fort Knot | Південний Форт-Нот                                   | |
+| South Knot City | Саут-Нот                                             | |
+| Southern Environmental Observatory | Північна екологічна обсерваторія                     | |
+| Spider Hill | Пагорб Павука                                        | |
+| Terminal Fort Knot | Термінальний Форт-Кнот                               | |
+| The Motherhood | Материнство                                          | Група жінок / Назва притулку |
+| Twin Creeks | Струмки-близнюки                                     | |
+| Twin Valley Mine | шахта «Долина Близнюків»                             | |
+| UCA (United Cities of America) | UCA                                                  | Об'єднані Міста Америки |
+| Villa Libre | Вілла Лібре                                          | Поселення в Австралії |
+| Warrigal Cliff | Скеля Варрігал                                       | |
+| West Fort Knot | Західний Форт-Кнот                                   | |
+| Western Environmental Observatory | Західна екологічна обсерваторія                      | |
+| Westbury Monorail | Монорейка Вестбері                                   | |
+| Windy Plateau | Вітряне плато                                        | |
 
 ### Обладнання та механіки
 | Англійська | Українська | Коментар |
